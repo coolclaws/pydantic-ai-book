@@ -1,0 +1,26 @@
+{
+  "name": "pydantic-ai-book",
+  "version": "1.0.0",
+  "description": "Pydantic AI 源码解析——类型安全的 Python AI Agent 框架深度剖析",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolclaws/pydantic-ai-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolclaws/pydantic-ai-book/issues"
+  },
+  "homepage": "https://github.com/coolclaws/pydantic-ai-book#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "type": "module"
+}
